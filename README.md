@@ -18,7 +18,7 @@ A **growth mindset** is the idea that you can learn or improve through effort; w
 
 
 I'm struggling to think of a 5th thing so here's a picture of some pretzels I made.
-![pretzels](https://raw.githubusercontent.com/mrozowjj/reading-notes/main/IMG_20191117_162638.jpg)
+![pretzels](IMG_20191117_162638.jpg)
 
 
 
