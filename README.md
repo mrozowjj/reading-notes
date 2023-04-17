@@ -17,8 +17,8 @@ A growth mindset is the idea that you can learn or improve through effort; what 
 * Take a step back. If a problem is frusterating or overwhelming and you aren't making progress take a few minute break and then try again
 
 
-I'm struggling to think of a 5th thing so here's a picture of some ![pretzels](https://github.com/mrozowjj/reading-notes/blob/main/IMG_20191117_162638.jpg) I made.
-
+I'm struggling to think of a 5th thing so here's a picture of some pretzels I made.
+![pretzels](https://github.com/mrozowjj/reading-notes/blob/main/IMG_20191117_162638.jpg)
 
 
 
