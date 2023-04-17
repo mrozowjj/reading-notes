@@ -12,6 +12,9 @@ A growth mindset is the idea that you can learn or improve through effort; what 
 
 ### Three ways to keep yourself in a growth mindset
 
-* One
-* Two
-* Three
+* Ask others for help
+* Remind yourself growth is hard work
+* Take a step back. If a problem is frusterating or overwhelming and you aren't making progress take a few minute break and then try again
+
+
+
