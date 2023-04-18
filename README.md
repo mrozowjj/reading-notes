@@ -1,12 +1,9 @@
 # Jesse's Code Fellows Reading-Notes
-My reading journal for Code Fellows
+This is a page with my reading notes from the Code Fellow bootcamp that I'm currently enrolled in. Below you'll see a link to all of my reading journal from the 102 and 201 classes.
 
 I'm Jesse Mrozowski and I'm taking a Code Fellows bootcamp to learn how to code again after 14 years away from software development.
 
 Link to my [github page](https://github.com/mrozowjj)
-
-## Reading Notes Page
-This is a page with my reading notes from the Code Fellow bootcamp that I'm currently enrolled in. Below you'll see a link to all of my reading notes from the 102 and 201 classes.
 
 ## Table of Contents
 
