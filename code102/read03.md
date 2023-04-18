@@ -1,0 +1,5 @@
+What is Version Control? - Version Control is a way to track changes made to a software repository. 
+What is cloning in Git? Cloning is a tool used to build a local copy of your coding project/repository on your computer locally.
+What is the command to track and stage files? "git add" is the command to add files to track that can be commited and pushed later
+What is the command to take a snapshot of your changed files? "git commit -m "Enter reason here"" is the commant to commit the changes you've made to your local files. The -m argument isn't necessary but it is good practice to give a reason for the change because it makes tracking it easier later on down the road.
+What is the command to send your changed files to Github? "git push origin main" is the command to upload your local computer files to the Github repository. 
