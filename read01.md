@@ -1,4 +1,4 @@
-1. What is Markdown?  - Markdown is a syntax used for
+1. What is Markdown?  - Markdown is a syntax used for making webpages quickly.
 2. Why do we use Markdown? We use markdown to quickly make a webpage that is visually easy to read without needing to use html.
 3. What symbol will create a heading in Markdown? You use the #
 4. How many do you need to create the largest heading? Use 1 #
