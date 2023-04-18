@@ -3,7 +3,7 @@
 ## Areas of Strength
  - Customer Orientation - I have had a strong sense of empathy for the customer, knowing what will make their lives easier, figuring out how I can help them, etc.
  - Analytical Thinking - This seems to come very easily for me; doesn't matter if it's fixing a car engine, repairing a toilet, or a project at work I'm generally good at breaking it down in to small pieces and organizing them logically
- - 
+ - Agile - This method has always resonated with me; progress not prefection is my motto to overcome procrastination; it won't be perfect and it won't be finished today but I can still chip away at it.
 
 ## Areas for Growth
 
