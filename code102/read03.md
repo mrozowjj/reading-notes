@@ -1,4 +1,4 @@
-# Reading Assigned 3 Notes
+# Reading Assignment 3 Notes
 
 1. What is Version Control? - Version Control is a way to track changes made to a software repository. 
 2. What is cloning in Git? Cloning is a tool used to build a local copy of your coding project/repository on your computer locally.
