@@ -14,7 +14,7 @@ It means you are executing that block of code on command. If you have a function
 
 ## What are the parenthesis () for when you define a function?
 
-The paranthesis is where you put any arguments you want in a funciton. Using the example of converting units we might want to pass the arguments for the value we want to convert, the unit the value is in and the unit we desire the value to be in. So hypotethcially we could have\
+The paranthesis is where you put any arguments you want in a funciton. Using the example of converting units we might want to pass the arguments for the value we want to convert, the unit the value is in and the unit we desire the value to be in. So hypotethcially we could have:
 
 ```java
 
