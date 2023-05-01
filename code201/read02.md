@@ -4,6 +4,8 @@
 
 ### Why is it important to use semantic elements in our HTML?
 
+Using semantic elements makes it easier to sytle the page which allows you to present information to the user easier by increasing readability and defining structure.
+
 ### How many levels of headings are there in HTML?
 
 HTML has 6 different levels of headings.
