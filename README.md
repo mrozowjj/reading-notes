@@ -7,7 +7,7 @@ Link to my [github page](https://github.com/mrozowjj)
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development Reading Notes
 
 1. [Class 1 Reading Notes](code102/read01.md)
 2. [Class 2 Reading Notes](code102/read02.md)
@@ -18,7 +18,7 @@ Link to my [github page](https://github.com/mrozowjj)
 7. [Class 7 Reading Notes](code102/read07.md)
 8. [Class 8 Reading Notes](code102/read08.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development Reading Notes
 
 1. [Class 1 Reading Notes](code201/read01.md)
 2. [Class 2 Reading Notes](code201/read02.md)
@@ -35,3 +35,8 @@ Link to my [github page](https://github.com/mrozowjj)
 13. [Class 13 Reading Notes](code201/read13.md)
 14. [Class 14 Reading Notes](code201/read14.md)
 15. [Class 15 Reading Notes](code201/read15.md)
+
+
+### Code 301 - Intermediate Software Development Reading Notes
+
+### Code 401 - Advanced Software Development Reading Notes
