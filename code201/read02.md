@@ -86,4 +86,4 @@ And a looser version of equall is \== where the item has to be simlar but not ne
 
 ### What is the difference between the logical operator && and ||?
 
-&& is the "and" operator and || is the "or" operator. With && both things on either side of the operator need to be true for the statement to elavualte as true with || only one of the arguments needs to be true.
+\&& is the "and" operator and \|| is the "or" operator. With \&& both things on either side of the operator need to be true for the statement to elavualte as true with \|| only one of the arguments needs to be true.
