@@ -1,4 +1,4 @@
-# Code 201 Reading Assignmend 3
+# Code 201 Reading Assigment 3
 
 ## Learn HTML
 
