@@ -1,4 +1,4 @@
-# Code 201 Reading Assigment 
+# Code 201 Reading Assigment 6
 
 ## JavaScript Object Basics
 
